@@ -2,7 +2,7 @@
 
 **Win95-style Icon Set**
 
-<img src="D:\git\ChiDoors\CHIdoors_Icon.png" alt="CHIdoors_Icon" style="zoom:200%;" />
+<img src="CHIdoors_Icon.png" alt="CHIdoors_Icon" style="zoom:200%;" />
 
 ---
 
