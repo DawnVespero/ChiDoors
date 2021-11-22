@@ -36,5 +36,13 @@ if a base icon for a program already exists and you want to add a variant, suffi
 
 If you're in doubt about the author of a program, not sure which to use, or just want to quickly look it up, I would recommend using the IDs off the [winget-pkgs](https://github.com/microsoft/winget-pkgs) repo, after which this scheme is modeled.
 
+## Instructions
 
+### MacOS
 
+1. Open you application folder (Macintosh HD -> Applications)
+2. Select the application whose icon you want to change and open its info panel (⌘I)
+3. Open the .ico file you want to apply to the app in Preview
+4. Select the desired icon size and copy it (⌘C)
+5. In the app's info window, select the application icon in the upper left corner and paste the icon (⌘V)
+6. Close the info window
