@@ -1,9 +1,9 @@
 # ChiDoors
-
 **A Win95-style Icon Set**
 
 <img src="CHIdoors_Icon.png" alt="CHIdoors_Icon" style="zoom:200%;" />
 
+![CC BY-SA Banner](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 ---
 
 **ChiDoors ** *("[Chicago ](https://en.wikipedia.org/wiki/Windows_95#Development)Doors")* is an icon set that tries to recreate the look of Windows 95's desktop icons. The intention behind this is to enable users of modern systems (and especially Windows 95-style themes such as [Chicago95](https://github.com/grassmunk/Chicago95)) to emulate the aesthetic of the older Windows versions more completely by providing icons for newer programs that fit with this style.
